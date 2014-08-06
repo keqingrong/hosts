@@ -1,7 +1,7 @@
 Intro
 =====================
 
-This is a list of hosts file to help you visit certain websites.
+This is a list of hosts file to help you access certain websites.
 
 Other choices :
 - [smarthosts](https://code.google.com/p/smarthosts/)
