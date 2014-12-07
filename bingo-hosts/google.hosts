@@ -616,13 +616,17 @@
 173.194.68.141    chromium-build.appspot.com
 173.194.68.141    chromiumcodereview.appspot.com
 173.194.68.141    codereview.appspot.com
+173.194.68.141    dictsearch.appspot.com
 173.194.68.141    download-chromium.appspot.com
 173.194.68.141    entstatic.appspot.com
 173.194.68.141    evolutionofweb.appspot.com
+173.194.68.141    facebook-web-clients.appspot.com
 173.194.68.141    feedly-beta.appspot.com
+173.194.68.141    gde-map.appspot.com
 173.194.68.141    googcloudlabs.appspot.com
 173.194.68.141    google-developers.appspot.com
 173.194.68.141    gv-gadget.appspot.com
+173.194.68.141    i18napis.appspot.com
 173.194.68.141    lfe-alpo-gm.appspot.com
 173.194.68.141    m-dot-betaspike.appspot.com
 173.194.68.141    magnifier.blogspot.com
@@ -822,6 +826,9 @@ video.google.com
 ### images.l.google.com
 64.233.171.101    images.google.com
 
+### ipv6.l.google.com
+2607:f8b0:400d:c00::66    ipv6.google.com
+
 ### khm.l.google.com
 64.233.171.101    khm.google.com
 64.233.171.101    khm0.google.com
@@ -956,6 +963,7 @@ accounts.google.com
 64.233.171.101    i3.ytimg.com
 64.233.171.101    i4.ytimg.com
 64.233.171.101    s.ytimg.com
+64.233.171.101    manifest.googlevideo.com
 64.233.171.101    redirector.googlevideo.com
 
 ## Android
@@ -975,11 +983,13 @@ accounts.google.com
 65.39.199.87    www.chromium.org
 65.39.199.87    codereview.chromium.org
 65.39.199.87    dev.chromium.org
+65.39.199.87    www.uproxy.org
 65.39.199.87    auth.keyhole.com
 65.39.199.87    chrome.angrybirds.com
 65.39.199.87    www.orkut.com
 173.194.68.141    www.panoramio.com
 173.194.68.100    panoramio.com
 173.194.68.128    static.panoramio.com
-64.233.168.211    proxy.googlezip.net
-64.233.168.211    ext.google.com
+65.39.199.87    check.googlezip.net
+65.39.199.87    proxy.googlezip.net
+65.39.199.87    compress.googlezip.net
