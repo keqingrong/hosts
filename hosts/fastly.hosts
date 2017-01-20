@@ -1,0 +1,24 @@
+fastly.com
+
+151.101.40.134   jstutorial.disqus.com #196ms
+151.101.52.134   jstutorial.disqus.com #275ms
+151.101.32.134   jstutorial.disqus.com #356ms
+151.101.24.134   jstutorial.disqus.com #391ms
+151.101.16.134   jstutorial.disqus.com #448ms
+
+23.235.33.134    disqus.com #336ms
+23.235.37.134    disqus.com #407ms
+104.156.85.134   disqus.com #428ms
+#104.156.81.134   disqus.com #639ms
+
+151.101.40.134   referrer.disqus.com #196ms
+151.101.52.134   referrer.disqus.com #275ms
+#151.101.32.134   referrer.disqus.com #356ms
+#151.101.24.134   referrer.disqus.com #391ms
+#151.101.16.134   referrer.disqus.com #448ms
+
+151.101.52.249   a.disquscdn.com #226ms
+151.101.32.249   a.disquscdn.com #291ms
+151.101.24.249   a.disquscdn.com #303ms
+151.101.40.249   a.disquscdn.com #335ms
+#151.101.16.249   a.disquscdn.com #531ms

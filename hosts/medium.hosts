@@ -1,15 +1,17 @@
-104.16.120.127  medium.com  #180
-104.16.123.127  medium.com  #186
-104.16.121.127  medium.com  #199
-104.16.122.127  medium.com  #214
-104.16.124.127  medium.com  #205
-104.16.120.145  cdn-static-1.medium.com  #171
-104.16.119.145  cdn-static-1.medium.com  #185
-104.16.117.145  cdn-static-1.medium.com  #210
-104.16.121.145  cdn-static-1.medium.com  #210
-104.16.118.145  cdn-static-1.medium.com  #183 75%
-104.16.120.145  cdn-images-1.medium.com  #171
-104.16.119.145  cdn-images-1.medium.com  #185
-104.16.117.145  cdn-images-1.medium.com  #210
-104.16.121.145  cdn-images-1.medium.com  #210
-104.16.118.145  cdn-images-1.medium.com  #183 75%
+104.16.124.127  medium.com  #205 172 168
+104.16.123.127  medium.com  #186 330 170
+104.16.121.127  medium.com  #199 194 271
+104.16.122.127  medium.com  #214 191 312
+104.16.120.127  medium.com  #180 220 383
+
+104.16.121.145  cdn-static-1.medium.com  #210 184 
+104.16.119.145  cdn-static-1.medium.com  #185 153 
+104.16.118.145  cdn-static-1.medium.com  #183 170 
+104.16.120.145  cdn-static-1.medium.com  #171 188 
+104.16.117.145  cdn-static-1.medium.com  #210 162
+
+104.16.121.145  cdn-images-1.medium.com  #210 241
+104.16.119.145  cdn-images-1.medium.com  #185 286
+104.16.118.145  cdn-images-1.medium.com  #183 298
+104.16.120.145  cdn-images-1.medium.com  #171 326
+104.16.117.145  cdn-images-1.medium.com  #210 327

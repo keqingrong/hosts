@@ -1,0 +1,106 @@
+############## sina ################
+180.149.135.224  t.cn
+123.125.106.196  t.cn
+
+180.149.134.141  weibo.com
+180.149.134.142  weibo.com
+180.149.134.141  www.weibo.com
+180.149.134.142  www.weibo.com
+
+180.149.139.248  m.weibo.cn #39
+180.149.153.216  m.weibo.cn #42
+123.125.105.246  m.weibo.cn
+123.125.105.231  m.weibo.cn
+
+180.149.153.4    login.weibo.cn
+123.125.106.160  login.weibo.cn
+
+#58.63.234.198    passport.weibo.cn
+#123.125.29.228   passport.weibo.cn
+
+123.125.29.131   captcha.weibo.com
+
+#rm.api.weibo.com
+#beacon.sina.com.cn
+58.216.21.10    js1.t.sinajs.cn
+49.79.232.224   js1.t.sinajs.cn
+49.79.232.224   img.t.sinajs.cn
+114.80.143.193  img.t.sinajs.cn
+
+#113.108.216.252  passport.weibo.com #guangzhou 44ms
+#180.149.136.233  passport.weibo.com #beijing 36ms
+#202.108.7.181    passport.weibo.com #beijing 28ms
+
+#113.108.216.251  login.sina.com.cn #guangdong 47ms
+#180.149.136.231  login.sina.com.cn #beijing 42ms
+#202.108.7.198    login.sina.com.cn #beijing 26ms
+#203.90.242.124   login.sina.com.cn #hk 399ms
+
+#61.172.201.195   i.sso.sina.com.cn #shanghai 7ms
+#61.172.201.194   i.sso.sina.com.cn #shanghai 11ms
+#61.172.201.239   i.sso.sina.com.cn #shanghai 10ms
+#61.172.201.237   i.sso.sina.com.cn #shanghai 26ms
+#202.102.75.147   i.sso.sina.com.cn #nanjing 24ms
+#218.30.108.232   i.sso.sina.com.cn #beijing 37ms
+
+114.80.223.13      merger.ishare.down.sina.com.cn #shanghai
+180.149.153.163    merger.ishare.down.sina.com.cn #jiangsu
+58.63.236.134      merger.ishare.down.sina.com.cn #guangdong
+
+58.63.236.244    sinastorage.com #gunadong
+113.108.216.237  sinastorage.com #gunadong
+218.30.114.123   sinastorage.com #beijing
+
+180.149.134.156  vdisk.weibo.com
+180.149.134.154  vdisk.weibo.com
+123.125.106.102  vdisk.weibo.com
+123.125.106.101  vdisk.weibo.com
+
+180.149.135.176  api.weibo.com
+180.149.135.230  api.weibo.com
+
+61.155.142.250   www.sinaimg.cn
+61.172.207.239   www.sinaimg.cn
+
+61.155.142.250   wwws.sinaimg.cn #suzhou 28ms
+222.73.28.96     wwws.sinaimg.cn #SH 25ms
+
+58.220.27.80     ww1.sinaimg.cn
+202.102.94.124   ww1.sinaimg.cn
+61.155.142.69    ww1.sinaimg.cn
+61.155.142.74    ww2.sinaimg.cn
+61.155.142.69    ww2.sinaimg.cn
+114.80.174.41    ww3.sinaimg.cn #shanghai 22ms
+202.102.94.124   ww3.sinaimg.cn #nanjing 21ms
+180.97.159.243   ww3.sinaimg.cn #suzhou 27ms
+180.163.39.82    ww3.sinaimg.cn #shanghai 27ms
+202.102.94.124   ww4.sinaimg.cn
+61.155.142.66    ww4.sinaimg.cn
+
+202.102.94.124   tva1.sinaimg.cn
+61.155.142.66    tva1.sinaimg.cn
+202.102.94.124   tva2.sinaimg.cn
+61.155.142.66    tva2.sinaimg.cn
+202.102.94.124   tva3.sinaimg.cn
+61.155.142.66    tva3.sinaimg.cn
+202.102.94.124   tva4.sinaimg.cn
+61.155.142.66    tva4.sinaimg.cn
+
+58.221.78.39     tp3.sinaimg.cn
+58.222.19.59     tp3.sinaimg.cn
+
+101.71.53.125    h5.sinaimg.cn #hangzhou 11ms
+117.71.22.77     h5.sinaimg.cn #hefei 18ms
+222.73.28.96     h5.sinaimg.cn #shanghai 24ms
+61.155.142.250   h5.sinaimg.cn #suzhou 29ms
+
+202.102.94.125   us.sinaimg.cn
+122.228.24.40    us.sinaimg.cn
+
+202.102.94.124   u1.sinaimg.cn
+61.155.222.6     u1.sinaimg.cn
+222.73.28.96     u1.sinaimg.cn
+
+218.30.114.123   sinastorage.com #39
+58.63.236.244    sinastorage.com #40
+113.108.216.237  sinastorage.com #45
