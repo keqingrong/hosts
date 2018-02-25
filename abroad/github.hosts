@@ -67,6 +67,7 @@
 199.27.74.133    avatars3.githubusercontent.com
 199.27.76.133    avatars3.githubusercontent.com
 199.27.79.133    avatars3.githubusercontent.com
+
 103.245.222.184  github.global.ssl.fastly.net #Asia
 199.27.73.185    github.global.ssl.fastly.net
 199.27.72.184    github.global.ssl.fastly.net
@@ -79,3 +80,8 @@
 185.31.17.185    github.global.ssl.fastly.net
 185.31.17.184    github.global.ssl.fastly.net
 185.31.16.184    github.global.ssl.fastly.net
+
+52.216.66.8      github-cloud.s3.amazonaws.com #243ms
+52.216.16.56     github-cloud.s3.amazonaws.com #251ms
+52.216.80.120    github-cloud.s3.amazonaws.com #309ms
+54.231.113.227   github-cloud.s3.amazonaws.com #359ms
