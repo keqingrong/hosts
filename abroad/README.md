@@ -9,3 +9,5 @@
 - [x] Medium
 - [x] Disqus
 - [x] GitHub Gist
+- [x] RawGit
+- [x] Instgram
