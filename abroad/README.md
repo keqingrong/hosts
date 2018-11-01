@@ -12,6 +12,7 @@
 
 - [x] Reddit
 - [x] BBC
+- [x] Wikipedia (Chinese Language Edition)
 
 ## DNS poisoning
 
