@@ -13,6 +13,7 @@
 - [x] Reddit
 - [x] BBC
 - [x] Wikipedia (Chinese Language Edition)
+- [x] Vimeo
 
 ## DNS poisoning
 
