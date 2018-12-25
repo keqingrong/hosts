@@ -10,6 +10,7 @@
 
 ## Connection reset
 
+- [x] Quora
 - [x] Reddit
 - [x] BBC
 - [x] Wikipedia (Chinese Language Edition)
