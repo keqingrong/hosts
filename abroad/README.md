@@ -10,6 +10,7 @@
 
 ## Connection reset
 
+- [x] Medium
 - [x] Quora
 - [x] Reddit
 - [x] BBC
@@ -18,8 +19,8 @@
 
 ## DNS poisoning
 
-- [x] Medium
 - [x] Disqus
 - [x] GitHub Gist
 - [x] RawGit
 - [x] Instgram
+- [x] Goodreads
