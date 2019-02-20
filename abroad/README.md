@@ -14,6 +14,7 @@
 - [x] Quora
 - [x] Reddit
 - [x] BBC
+- [x] The New York Times
 - [x] Wikipedia (Chinese Language Edition)
 - [x] Vimeo
 
