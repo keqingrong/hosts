@@ -1,0 +1,114 @@
+# Public DNS
+
+## 国外
+
+- Google Public DNS
+  - IPv4
+    - `8.8.8.8` (google-public-dns-a.google.com)
+    - `8.8.4.4` (google-public-dns-b.google.com)
+  - IPv6
+    - `2001:4860:4860::8888`
+    - `2001:4860:4860::8844`
+- Cloudflare DNS
+  - IPv4
+    - `1.1.1.1`
+    - `1.0.0.1`
+  - IPv6
+    - `2606:4700:4700::1111`
+    - `2606:4700:4700::1001`
+- IBM Quad9 DNS
+  - IPv4
+    - `9.9.9.9` (dns.quad9.net)
+    - `149.112.112.112`
+  - IPv6
+    - `2620:fe::fe`
+    - `2620:fe::9`
+- Cisco OpenDNS
+  - Standard
+    - `208.67.222.222` (resolver1.opendns.com)
+    - `208.67.220.220` (resolver2.opendns.com)
+    - `208.67.222.220` (resolver3.opendns.com)
+    - `208.67.220.222` (resolver4.opendns.com)
+    - `2620:119:35::35`
+    - `2620:119:53::53`
+  - FamilyShield
+    - `208.67.222.123` (resolver1-fs.opendns.com)
+    - `208.67.220.123` (resolver2-fs.opendns.com)
+- Yandex.DNS
+  - Basic
+    - `77.88.8.8`
+    - `77.88.8.1`
+  - Safe
+    - `77.88.8.88`
+    - `77.88.8.2`
+  - Family
+    - `77.88.8.7`
+    - `77.88.8.3`
+- Verisign Public DNS
+  - `64.6.64.6` (recpubns1.nstld.net)
+  - `64.6.65.6` (recpubns2.nstld.net)
+- OpenNIC Tier 2 DNS
+  - IPv4
+    - `185.121.177.177`
+    - `169.239.202.202`
+  - IPv6
+    - `2a05:dfc7:5::53`
+    - `2a05:dfc7:5::5353`
+- Comodo Secure DNS
+  - `8.26.56.26`
+  - `8.20.247.20`
+- Norton ConnectSafe DNS
+  - Policy A — Security
+    - `199.85.126.10`
+    - `199.85.127.10`
+  - Policy B — Security + Pornography
+    - `199.85.126.20`
+    - `199.85.127.20`
+  - Policy C — Security + Pornography + Non-Family Friendly
+    - `199.85.126.30`
+    - `199.85.127.30`
+
+## 国内
+
+- 南京信风软件有限公司 114DNS
+  - 纯净版
+    - `114.114.114.114` (public1.114dns.com)
+    - `114.114.115.115` (public2.114dns.com)
+  - 拦截版
+    - `114.114.114.119` (anti-malware-1.114dns.com)
+    - `114.114.115.119` (anti-malware-2.114dns.com)
+  - 儿童版
+    - `114.114.114.110` (protect-children-1.114dns.com)
+    - `114.114.115.110` (protect-children-2.114dns.com)
+- 阿里公共 DNS AliDNS
+  - `223.5.5.5` (public1.alidns.com)
+  - `223.6.6.6` (public2.alidns.com)
+- 中国互联网络信息中心 CNNIC SDNS
+  - `1.2.4.8` (public1.sdns.cn)
+  - `210.2.4.8`
+- 腾讯 DNSPod Public DNS +
+  - `119.29.29.29`
+  - `182.254.116.116`
+- 百度公共 DNS
+  - `180.76.76.76`
+  - `2400:da00::6666`
+- 360 DNS派
+  - `101.226.4.6` 上海电信
+  - `218.30.118.6` 北京电信
+  - `123.125.81.6` 北京联通
+  - `140.207.198.6` 上海联通
+- V2EX DNS
+  - `199.91.73.222` (Los Angeles)
+  - `178.79.131.110` (London)
+- 清华大学 TUNA 协会 DNS666
+  - `101.6.6.6`
+  - `2001:da8::666`
+- OpenerDNS
+  - `42.120.21.30`
+- oneDNS
+  - 纯净版
+    - `117.50.10.10`
+    - `117.50.20.20`
+  - 拦截版
+    - `117.50.11.11`
+    - `117.50.22.22`

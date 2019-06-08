@@ -15,8 +15,9 @@
 - [x] Reddit
 - [x] BBC
 - [x] The New York Times
-- [x] Wikipedia (Chinese Language Edition)
+- [x] Wikipedia
 - [x] Vimeo
+- [x] Yahoo Search
 
 ## DNS poisoning
 
