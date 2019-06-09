@@ -28,6 +28,9 @@
 
 - `221.6.4.66` (ns1.jscnc.net) 南京
 - `221.6.4.67` (ns2.jscnc.net) 南京
+- `221.6.66.4` (ns1.jscnc.net) 苏州
+- `221.6.96.177` 无锡
+- `221.6.96.178` 无锡
 - `218.104.32.106` (sz-dns1.jssz.cncnet.net) 苏州
 
 ## 上海电信
@@ -35,9 +38,9 @@
 - <del>`202.96.199.132`</del> (nm.sta.net.cn)
 - `202.96.199.133` (ns.sta.net.cn)
 - `202.96.209.5` (ns-px.online.sh.cn) 浦西
-- <del>`202.96.209.6`</del> (ns-px.online.sh.cn) 已停用
+- <del>`202.96.209.6`</del> (ns-px.online.sh.cn) 浦西 已停用
 - `202.96.209.133` (ns-pd.online.sh.cn) 浦东
-- <del>`202.96.209.134`</del> (ns-pd.online.sh.cn) 已停用
+- <del>`202.96.209.134`</del> (ns-pd.online.sh.cn) 浦东 已停用
 - `116.228.111.18` (ns-cx1.online.sh.cn)
 - `116.228.111.118` (ns-cx2.online.sh.cn)
 - `180.168.255.18` (ns-nh1.online.sh.cn)
@@ -46,8 +49,11 @@
 ## 上海联通
 
 - `210.22.70.3` (ca1.sh.cncnet.net)
-- `210.22.84.3` (ca2.sh.cncnet.net)
 - `210.22.70.225` (backup.sh.cnc171.net)
+- `210.22.70.227` (dns-chj.sh.cncnet.net)
+- `210.22.84.3` (ca2.sh.cncnet.net)
+- `211.95.1.97` (dns.sh.cnuninet.net)
+- `211.95.72.1` (dns.sh.cnuninet.net)
 
 ## 北京电信
 
@@ -68,6 +74,11 @@
 - `202.106.46.151` (dialdns.bta.net.cn)
 - `202.106.148.1` (ns.bta.net.cn)
 - `202.106.195.68` (gjjdial.bta.net.cn)
+- `202.106.196.212` (ns.bta.net.cn)
+- `202.106.196.228` (ns.bta.net.cn)
+- `202.106.196.230` (ns.bta.net.cn)
+- `202.106.196.232` (ns.bta.net.cn)
+- `202.106.196.237` (ns.bta.net.cn)
 
 ## 浙江电信
 
@@ -90,16 +101,26 @@
 - `61.153.81.75`  (nbdns9.nbptt.zj.cn) 宁波
 - `61.153.177.196` (wzdns1.wz.zj.cn) 温州
 - `61.153.177.197` (wzdns2.wz.zj.cn) 温州
+- `61.153.177.198` (wzdns3.wz.zj.cn) 温州
+- `61.153.177.199` (wzdns4.wz.zj.cn) 温州
 - `60.191.244.2` (jhdns1.jhptt.zj.cn) 金华
 - `60.191.244.3` (jhdns2.jhptt.zj.cn) 金华
 - `60.191.244.4` (jhdns3.jhptt.zj.cn) 金华
 - `60.191.244.5` (jhdns4.jhptt.zj.cn) 金华
+- `218.74.122.66` (lsdns3.lsptt.zj.cn) 丽水
+- `218.74.122.74` (lsdns1.lsptt.zj.cn) 丽水
+- `218.74.122.75` (lsdns2.lsptt.zj.cn) 丽水
+
+## 浙江联通
+
+- `221.12.1.227` (ns1.zjnetcom.com) 杭州
+- `221.12.33.227` (ns2.zjnetcom.com) 宁波
 
 ## 山东电信
 
 - `219.146.0.130` (qdns1.sdtele.com) 青岛
 - `219.146.1.66` (jnns1.sdtele.com) 济南
-- `219.147.1.66` 青岛
+- `219.147.1.66` (jnns1.sdtele.com) 青岛
 - `222.173.115.50` (jnns1.sdtele.com) 济南
 
 ## 山东联通
@@ -142,9 +163,13 @@
 - `210.21.4.130` (gz1-dns.gdgz.cncnet.net) 广州
 - `210.21.196.5` (ftcg-cw2k.gdsz.cncnet.net) 深圳
 - `210.21.196.6` (dns2-ftcg.gdsz.cncnet.net) 深圳
+- `211.95.193.97` (dns.gdgz.cnuninet.net) 广州
 
 ## 移动
 
+- `211.98.2.1` 北京
+- `211.98.2.4` 北京
+- `211.98.4.1` 广州
 - `221.130.13.133` 南京
 - `211.136.17.107` (dns1.cnmobile.net) 北京
 - `211.136.18.171` (ns1.cnmobile.net ) 上海
