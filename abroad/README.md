@@ -18,6 +18,7 @@
 - [x] Wikipedia
 - [x] Vimeo
 - [x] Yahoo Search
+- [x] Imgur
 
 ## DNS poisoning
 
