@@ -7,6 +7,7 @@
 - [x] Facebook
 - [x] Twitter
 - [x] Microsoft OneDrive
+- [x] Dropbox
 
 ## Connection reset
 
@@ -19,6 +20,7 @@
 - [x] Vimeo
 - [x] Yahoo Search
 - [x] Imgur
+- [x] SlideShare
 
 ## DNS poisoning
 
