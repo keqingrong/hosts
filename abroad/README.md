@@ -1,31 +1,33 @@
-# Blocked
+# Blocked Websites
 
-## Block IP
+## IP address blocking
 
-- [x] Google
-- [x] YouTube
-- [x] Facebook
-- [x] Twitter
-- [x] Microsoft OneDrive
 - [x] Dropbox
+- [x] Facebook
+- [x] Google (Google Search, Gmail, YouTube, Google Play, Google Docs, Google Maps, etc.)
+- [x] Microsoft OneDrive
+- [x] Twitter
 
 ## Connection reset
 
+- [x] BBC
+- [x] Bitly
+- [x] Imgur
 - [x] Medium
 - [x] Quora
 - [x] Reddit
-- [x] BBC
-- [x] The New York Times
-- [x] Wikipedia
-- [x] Vimeo
-- [x] Yahoo Search
-- [x] Imgur
 - [x] SlideShare
+- [x] The New York Times
+- [x] Tumblr
+- [x] Vimeo
+- [x] Wikipedia
+- [x] Yahoo Search
 
 ## DNS poisoning
 
+- [x] 9GAG
 - [x] Disqus
 - [x] GitHub Gist
-- [x] RawGit
-- [x] Instgram
 - [x] Goodreads
+- [x] Instagram
+- [x] <del>RawGit (shut down)</del>
