@@ -22,6 +22,7 @@
 - [x] Vimeo
 - [x] Wikipedia
 - [x] Yahoo Search
+- [x] Steam Community
 
 ## DNS poisoning
 
