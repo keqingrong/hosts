@@ -21,6 +21,7 @@
 - [x] Tumblr
 - [x] Vimeo
 - [x] Wikipedia
+- [x] Wikiwand
 - [x] Yahoo Search
 - [x] Steam Community
 
