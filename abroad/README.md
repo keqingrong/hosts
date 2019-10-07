@@ -17,13 +17,13 @@
 - [x] Quora
 - [x] Reddit
 - [x] SlideShare
+- [x] Steam Community
 - [x] The New York Times
 - [x] Tumblr
 - [x] Vimeo
 - [x] Wikipedia
 - [x] Wikiwand
 - [x] Yahoo Search
-- [x] Steam Community
 
 ## DNS poisoning
 
@@ -31,5 +31,6 @@
 - [x] Disqus
 - [x] GitHub Gist
 - [x] Goodreads
+- [x] Hacker News
 - [x] Instagram
 - [x] <del>RawGit (shut down)</del>
