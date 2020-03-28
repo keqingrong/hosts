@@ -12,6 +12,7 @@
 
 - [x] BBC
 - [x] Bitly
+- [x] Disqus
 - [x] Imgur
 - [x] Medium
 - [x] Quora
@@ -28,7 +29,6 @@
 ## DNS poisoning
 
 - [x] 9GAG
-- [x] Disqus
 - [x] GitHub Gist
 - [x] Goodreads
 - [x] Hacker News
