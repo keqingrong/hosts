@@ -51,8 +51,8 @@
 - <del>`202.96.209.134`</del> (ns-pd.online.sh.cn) 浦东 已停用
 - `116.228.111.18` (ns-cx1.online.sh.cn)
 - `116.228.111.118` (ns-cx2.online.sh.cn)
-- `180.168.255.18` (ns-nh1.online.sh.cn)
-- `180.168.255.118` (ns-nh2.online.sh.cn)
+- `180.168.255.18` (ns-nh1.online.sh.cn) 南汇
+- `180.168.255.118` (ns-nh2.online.sh.cn) 南汇
 
 ## 上海联通
 
