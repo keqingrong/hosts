@@ -8,10 +8,15 @@
 - `218.4.4.4` (dns2.ctcdma.com) 苏州
 - `218.2.135.1` (a.center-dns.jsinfo.net) 南京
 - `221.228.255.1` (b.center-dns.jsinfo.net) 苏州
-- `61.177.7.1` (c.center-dns.jsinfo.net) 苏州电信
-- `61.147.37.1` (d.center-dns.jsinfo.net) 苏州电信
-- <del>`202.102.24.35`</del> (ns.jlonline.com) 已停用
-- <del>`202.102.24.34`</del> (ns2.jlonline.com) 已停用
+- `61.177.7.1` (c.center-dns.jsinfo.net) 苏州
+- `61.147.37.1` (d.center-dns.jsinfo.net) 苏州
+
+<details>
+
+<summary>已停用</summary>
+  
+- <del>`202.102.24.35`</del> (ns.jlonline.com) 已停用 南京
+- <del>`202.102.24.34`</del> (ns2.jlonline.com) 已停用 南京
 - <del>`202.102.3.141`</del> (dns.cz.js.cn) 已停用 常州
 - <del>`202.102.4.141`</del> (dns.zj.js.cn) 已停用 镇江
 - <del>`202.102.8.141`</del> (dns.nt.js.cn) 已停用 南通
@@ -23,7 +28,9 @@
 - <del>`202.102.14.141`</del> (dns.sz.js.cn) 已停用 苏州
 - <del>`202.102.48.141`</del> (dns.sq.js.cn) 已停用 宿迁
 - <del>`202.102.49.141`</del> (dns.tz.js.cn) 已停用 泰州
-- <del>`202.102.15.162`</del> (nmc1.ptt.js.cn) 已停用
+- <del>`202.102.15.162`</del> (nmc1.ptt.js.cn) 已停用 南京
+
+</details>
 
 ## 江苏联通
 
